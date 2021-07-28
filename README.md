@@ -14,7 +14,7 @@ Netflix is an American media-services provider and production company. The compa
 ## Technologies used
 * HTML5
 * CSS 
-* JavaScript [Logic for video]
+* JavaScript [Logic for video pausing]
 
 
 ## License
