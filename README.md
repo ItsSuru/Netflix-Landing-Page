@@ -8,7 +8,7 @@ Netflix is an American media-services provider and production company. The compa
 ## Screenshots
 
  <p align="center">
-  <img width="800" height="829" src="images/front2.png">
+  <img width="800" height="829" src="./images/front2.png">
 </p>
 
 ## Technologies used
