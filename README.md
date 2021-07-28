@@ -3,7 +3,7 @@
 
 ## General info
 
-Netflix is an American media-services provider and production company. The company's primary business is its subscription-based streaming service which offers online streaming of a library of films and television programs, including those produced in-house.
+Netflix is an American media-services provider and production company. The company's primary business is its subscription-based streaming service which offers online streaming of a library of films and television programs, And this page (front only) is a basic simple clone of it without any database.
 
 ## Screenshots
 
