@@ -20,3 +20,8 @@ Netflix is an American media-services provider and production company. The compa
 ## License
 
 This project is licensed under the MIT License. 
+
+
+## Deployment
+
+<a href="https://netflix-frontpage.netlify.app/">https://netflix-frontpage.netlify.app/<a/>
